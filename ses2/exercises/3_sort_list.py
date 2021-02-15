@@ -34,3 +34,13 @@ print(f'List sorted by last letter: {ex4}')
 # but shorter words without an a is still sorted before longer words containing a..
 ex5 = sorted(l, key = lambda x: x.split('a'))
 print(f'List sorted by index of "a": {ex5}')
+
+# Teacher's solution
+"""
+def a_in(s):
+    if 'a' in s.lower():
+        return True
+    return False
+
+sorted(names, key=a_in)
+"""
