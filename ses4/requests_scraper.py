@@ -19,8 +19,9 @@ import subprocess as sp
 
 def main(argv):
     url = input('Enter URL: ')
-    token = '9648610bd5c52c29ac49a50fd1a9eeb6ad727fb0' 
     
+    token = '<enter token here>' 
+
     """
     h = requests.head(url, allow_redirects=True)
     header = h.headers
