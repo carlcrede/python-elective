@@ -1,0 +1,18 @@
+Repo name: Lesson-01-intro-to-python
+Full repo name: python-elective-fall-2019/Lesson-01-intro-to-python
+Repo name: python-elective-fall-2019.github.io
+Full repo name: python-elective-fall-2019/python-elective-fall-2019.github.io
+Repo name: Lesson-02-Data-structures
+Full repo name: python-elective-fall-2019/Lesson-02-Data-structures
+Repo name: Lesson-03-Utillities-modules-Virtual-Enviroment
+Full repo name: python-elective-fall-2019/Lesson-03-Utillities-modules-Virtual-Enviroment
+Repo name: Lesson-04-OOP-Basics
+Full repo name: python-elective-fall-2019/Lesson-04-OOP-Basics
+Repo name: Lesson-05-OOP-Encasulation
+Full repo name: python-elective-fall-2019/Lesson-05-OOP-Encasulation
+Repo name: magicmethods
+Full repo name: python-elective-fall-2019/magicmethods
+Repo name: property_example
+Full repo name: python-elective-fall-2019/property_example
+Repo name: Lesson-8-generators
+Full repo name: python-elective-fall-2019/Lesson-8-generators
